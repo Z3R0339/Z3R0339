@@ -16,7 +16,7 @@ public:
     vector<string> interests  = {"low-level programming", "security", "web dev", "archiving"};
     string         currently  = "expanding knowledge, one repo at a time";
     vector<string> languages  = {"C++", "C#", "Python", "JavaScript", "TypeScript", "Swift", "HTML", "CSS"};
-    vector<string> tools      = {"Node.js", "Kali Linux", "Windows", "macOS"};
+    vector<string> tools = {"Node.js", "Kali Linux", "Windows", "macOS", "IDA Pro"};v
     string         philosophy = "if it's interesting, it's worth preserving";
 };
 ```
@@ -37,6 +37,10 @@ public:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,windows,apple,git,bash,vscode&theme=dark&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IDA%20Pro-4B4B4B?style=flat-square&logoColor=white" />
 </p>
 
 &nbsp;

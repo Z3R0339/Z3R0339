@@ -16,7 +16,7 @@ public:
     vector<string> interests  = {"low-level programming", "security", "web dev", "archiving"};
     string         currently  = "expanding knowledge, one repo at a time";
     vector<string> languages  = {"C++", "C#", "Python", "JavaScript", "TypeScript", "Swift", "HTML", "CSS"};
-    vector<string> tools = {"Node.js", "Kali Linux", "Windows", "macOS", "IDA Pro"};v
+    vector<string> tools = {"Node.js", "Kali Linux", "Windows", "macOS", "IDA Pro"};
     string         philosophy = "if it's interesting, it's worth preserving";
 };
 ```
